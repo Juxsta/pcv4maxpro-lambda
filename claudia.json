@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "pcv4maxpro-lambda-executor",
+    "name": "pcv4maxpro-lambda",
+    "region": "us-west-1"
+  }
+}
